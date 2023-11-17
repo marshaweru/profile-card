@@ -6,3 +6,9 @@
 }
 /*Above is my boiler plate css*/
 /*styling for container*/
+.container{
+    min-height: 100vh;
+    background: linear-gradient(135deg, rgb(122, 161, 122), rgb(141, 141, 219));
+    width: 100%;
+    padding: 10px;
+}
