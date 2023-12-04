@@ -8,7 +8,7 @@
 /*styling for container*/
 .container{
     min-height: 100vh;
-    background: linear-gradient(135deg, rgb(131, 204, 131), rgb(74, 74, 163));
+    background: linear-gradient(135deg, rgb(93, 138, 93), rgb(74, 74, 163));
     width: 100%;
     padding: 10px;
 }
